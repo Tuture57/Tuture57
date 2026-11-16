@@ -21,7 +21,6 @@ Passionate about **Machine Learning**, **Computer Vision** and building useful s
 - 🤖 Currently working as an **AI engineering apprentice at Thales**.
 - 🧠 Interested in **machine learning, deep learning, computer vision and information retrieval**.
 - 📚 Learning more about **Retrieval-Augmented Generation (RAG)** and the algorithms behind search and retrieval.
-- 🔧 Open source: [a pull request to Hugging Face **smolagents**](https://github.com/huggingface/smolagents/pull/2143) that surfaces cache token usage in `TokenUsage` and the monitor, currently under review.
 - 🌍 Looking for an **international research internship in 2027**.
 
 ### 🛠️ Tech stack
